@@ -51,6 +51,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/ErickMaiconCode/ErickMaiconCode/output/snake.svg" alt="Snake animation" />
+![Pac-Man Contributions](assets/pacman-contributions.svg)
 
 ###
