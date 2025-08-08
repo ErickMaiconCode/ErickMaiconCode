@@ -40,13 +40,13 @@
 ###
 
 <div align="center">
-  <a href="erickalmeida632@gmail.com" target="_blank">
+  <a href="https://criarmeulink.com.br/u/1754687492" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
   <a href="https://br.linkedin.com/in/erick-maicon" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
-  <a href="erick.lima195@outlook.com" target="_blank">
+  <a href="https://criarmeulink.com.br/u/1754687732" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Outlook&logo=microsoft-outlook&label=&color=0078D4&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="microsoft-outlook logo"  />
   </a>
 </div>
